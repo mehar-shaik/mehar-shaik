@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm Mehar Banu<br>👩‍💻 Frontend Developer<br>⚛️ React • JavaScript • HTML • CSS<br>🤖 Exploring AI-Powered Web Apps ✨<br>🌱Learning Something New Everyday
+👋Hi, I'm Mehar Banu<br>👩‍💻 Frontend Developer & Python Backend Developer<br>⚛️ React • JavaScript • HTML • CSS<br>🤖 Exploring AI-Powered Web Apps ✨<br>🌱Learning Something New Everyday
 
 
 ## 🌐 Socials:
